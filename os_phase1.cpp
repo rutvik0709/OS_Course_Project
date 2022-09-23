@@ -54,6 +54,7 @@ int main(int argc, char const *argv[])
             counter++;
             init();
             continue;
+            
         }
         else if (temp == "$DTA")
         {
