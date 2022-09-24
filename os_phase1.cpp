@@ -13,6 +13,7 @@ void init()
     IR[4];
     IC[2];
     C = false;
+    
 }
 void memory()
 {
